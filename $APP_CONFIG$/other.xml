@@ -44,6 +44,24 @@
       </profile-state>
     </entry>
   </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://project.optilog-global.com">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="false" />
+      <commitMessageFormat>{summary} ({project}#{id})</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="-1" identifier="-- from all projects --" />
+      </option>
+      <password>df9edfc0dfdcdfc6dfeadf98df9adf9bdf9e</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>jan.vl@optilog-global.com</username>
+    </Redmine>
+  </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
@@ -57,5 +75,8 @@
         <option value="http://svn.optilog-global.com:8443/svn" />
       </list>
     </option>
+  </component>
+  <component name="TaskSettings">
+    <option name="ALWAYS_DISPLAY_COMBO" value="true" />
   </component>
 </application>

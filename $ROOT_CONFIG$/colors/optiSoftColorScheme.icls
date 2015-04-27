@@ -2,7 +2,71 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="eeeeee" />
+  </colors>
   <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b8000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b8000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d99f00" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b8000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="2d0088" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="73bf" />
