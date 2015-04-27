@@ -5,7 +5,7 @@
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="E:\InetPub\optiSoft\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="E:\InetPub\optiSoft\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
 </application>
