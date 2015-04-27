@@ -57,5 +57,12 @@
         <option name="FOREGROUND" value="2d0088" />
       </value>
     </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="fc404d" />
+        <option name="ERROR_STRIPE_COLOR" value="fc404d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
   </attributes>
 </scheme>
