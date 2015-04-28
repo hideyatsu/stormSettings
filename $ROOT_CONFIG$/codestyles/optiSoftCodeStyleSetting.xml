@@ -63,10 +63,29 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <modifiers />
+                <PUBLIC>true</PUBLIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PRIVATE>true</PRIVATE>
+              </AND>
+            </match>
           </rule>
         </section>
         <section>
