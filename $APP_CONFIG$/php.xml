@@ -1,11 +1,12 @@
 <application>
   <component name="MessDetector">
-    <option name="messDetectorPath" value="E:\InetPub\optiSoft\vendor\bin\phpmd.bat" />
+    <option name="messDetectorPath" value="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpmd.bat" />
+    <option name="timeoutMs" value="30000" />
   </component>
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="E:\InetPub\optiSoft\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
