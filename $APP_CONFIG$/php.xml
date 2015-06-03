@@ -1,23 +1,24 @@
 <application>
   <component name="MessDetector">
-    <option name="messDetectorPath" value="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpmd.bat" />
-    <option name="timeoutMs" value="30000" />
+    <phpmd_settings>
+      <MessDetectorConfiguration timeout="30000" tool_path="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpmd.bat" />
+    </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration max_messages_per_file="75" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\Inetpub\PHP5.6.6\php.exe" id="553b2941-2fff-47f9-ba8e-f02a111440a1" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\Inetpub\PHP5.6.6\php.exe" id="2fa302da-76b6-4847-a4c3-c1a2bf9ec484" name="PHP 5.6.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 5.6">
-        <phpinfo php_cgi="D:\Inetpub\PHP5.6.6\php-cgi.exe" php_cli="D:\Inetpub\PHP5.6.6\php.exe" path_separator=";" remote_host="127.0.0.1" version="5.6.6">
+      <interpreter name="PHP 5.6.6">
+        <phpinfo binary_type="PHP" php_cgi="D:\Inetpub\PHP5.6.6\php-cgi.exe" php_cli="D:\Inetpub\PHP5.6.6\php.exe" path_separator=";" remote_host="127.0.0.1" version="5.6.6">
           <additional_php_ini />
           <configuration_file>D:\Inetpub\PHP5.6.6\php.ini</configuration_file>
           <configuration_options>
@@ -50,7 +51,7 @@
             <configuration_option name="default_socket_timeout" value="60" />
             <configuration_option name="disable_classes" value="" />
             <configuration_option name="disable_functions" value="" />
-            <configuration_option name="display_errors" value="1" />
+            <configuration_option name="display_errors" value="" />
             <configuration_option name="display_startup_errors" value="" />
             <configuration_option name="doc_root" value="" />
             <configuration_option name="docref_ext" value="" />
