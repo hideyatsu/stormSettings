@@ -167,6 +167,9 @@
         <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="ff" />
