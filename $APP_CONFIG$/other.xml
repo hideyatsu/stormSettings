@@ -15,6 +15,12 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://project.optilog-global.com">
       <option name="APIKey" value="" />
