@@ -1,8 +1,78 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="NamedScopeManager">
-        <order />
+      <component name="DaemonCodeAnalyzer">
+        <disable_hints />
+      </component>
+      <component name="DependencyValidationManager">
+        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+      </component>
+      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+      <component name="InspectionProjectProfileManager">
+        <profiles>
+          <profile version="1.0" is_locked="false">
+            <option name="myName" value="Project Default" />
+            <option name="myLocal" value="false" />
+          </profile>
+          <profile version="1.0" is_locked="false">
+            <option name="myName" value="test2" />
+            <option name="myLocal" value="false" />
+            <inspection_tool class="AccessModifierPresentedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="CallableReferenceNameMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="ClassReImplementsParentInterfaceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="ElvisOperatorCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="ForeachSourceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+            <inspection_tool class="IfConditionalsWithoutCurvyBracketsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="PrivateConstructorSemanticsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="PropertyCanBeStaticInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="SingletonFactoryPatternViolationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          </profile>
+        </profiles>
+        <option name="PROJECT_PROFILE" value="test2" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PHP</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="test2">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Php Inspections (EA Extended)PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PrefixedIncDecrementEquivalentInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -18,6 +88,29 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="Errors" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <list size="0" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
     </defaultProject>
   </component>
 </application>
