@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'optiSoft'" />
-    <option name="defaultScopeName" value="Project 'optiSoft'" />
-    <option name="SEARCH_SCOPE" value="Project 'optiSoft'" />
+    <option name="customScope" value="Project 'optiSoftTrunk'" />
+    <option name="defaultScopeName" value="Project 'optiSoftTrunk'" />
+    <option name="SEARCH_SCOPE" value="Project 'optiSoftTrunk'" />
   </component>
 </application>

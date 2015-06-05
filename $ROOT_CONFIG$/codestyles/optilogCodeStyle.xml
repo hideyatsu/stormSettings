@@ -1,4 +1,5 @@
 <code_scheme name="optilogCodeStyle">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="400" />
   <PHPCodeStyleSettings>
@@ -16,7 +17,12 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="PHP">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
@@ -84,7 +90,6 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -95,7 +100,6 @@
                 <PROTECTED>true</PROTECTED>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -106,7 +110,6 @@
                 <PRIVATE>true</PRIVATE>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
