@@ -5,11 +5,6 @@
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="75" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="D:\Inetpub\wwwRoot\optiSoftTrunk\vendor\bin\phpcs.bat" />
-    </phpcs_settings>
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="D:\Inetpub\PHP5.6.6\php.exe" id="2fa302da-76b6-4847-a4c3-c1a2bf9ec484" name="PHP 5.6.6" />
