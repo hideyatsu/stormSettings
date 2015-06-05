@@ -12,15 +12,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\Inetpub\PHP5.6.6\php.exe" id="2fa302da-76b6-4847-a4c3-c1a2bf9ec484" name="PHP 5.6.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\Inetpub\PHP5.6.6\php.exe" id="2fa302da-76b6-4847-a4c3-c1a2bf9ec484" name="PHP 5.6.6" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6.6">
-        <phpinfo binary_type="PHP" php_cgi="D:\Inetpub\PHP5.6.6\php-cgi.exe" php_cli="D:\Inetpub\PHP5.6.6\php.exe" path_separator=";" remote_host="127.0.0.1" version="5.6.6">
-          <additional_php_ini />
-          <configuration_file>D:\Inetpub\PHP5.6.6\php.ini</configuration_file>
+        <phpinfo version="5.6.6">
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -329,11 +327,6 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.3.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
