@@ -73,27 +73,27 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:\wwwroot\optiSoft" />
         <option value="E:\wwwroot\localhost\presentations\AndroidGoogleMaps" />
         <option value="E:\wwwroot\localhost\projects\awatravelscom" />
         <option value="E:\wwwroot\localhost\laravel5\awatravelscom.bak" />
         <option value="E:\wwwroot\localhost\laravel\AwaTravel" />
         <option value="E:\wwwroot\localhost\laravel5\awatravelscom" />
         <option value="E:\wwwroot\localhost\awatravelscom" />
-        <option value="E:\wwwroot\optiSoft" />
       </list>
     </option>
     <option name="openPaths">
@@ -101,7 +101,7 @@
         <option value="E:\wwwroot\localhost\presentations\AndroidGoogleMaps" />
       </list>
     </option>
-    <option name="lastPath" value="E:\wwwroot\localhost\presentations\AndroidGoogleMaps" />
+    <option name="lastPath" value="E:\wwwroot\optiSoft" />
   </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://project.optilog-global.com">
